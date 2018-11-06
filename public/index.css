@@ -1,0 +1,93 @@
+.nav-link {
+    color: black;
+    text-align: left;
+    margin-right: 30px;
+    font-family: 'Questrial', sans-serif;
+}
+.display-2 {
+    text-align: left;
+    color: black;
+    font-family: 'League Script', cursive;
+    /* margin-left: 50px; */
+    margin-top: 30px;
+}
+.display-5 {
+    text-align: left;
+    color: black;
+    margin-top: 180px;
+    margin-left: 800px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    font-family: 'Questrial', sans-serif;
+}   
+
+.container {
+    position: relative;
+    color: black;
+    align-self: center;
+    font-family: 'Questrial', sans-serif;
+
+}
+.text-center {
+    position: absolute;
+    top: 67%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white; 
+    font-family: 'Questrial', sans-serif;
+}
+.card {
+    padding: 0px;
+    height: 200px;
+    width: 200px;
+    font-family: 'Questrial', sans-serif;
+    border: none;
+}
+.card-img-top {
+    outline: none;
+}
+.float-left {
+    margin-top: 100px;
+    margin-left: 200px;
+    height: 400px;
+    width: 300px;
+}
+.input-box {
+    width: 500px;
+    height: 50px;
+    font-size: 20pt;
+}
+.input-box-2 {
+    width: 500px;
+    height: 200px;
+    font-size: 20pt;
+}
+.submit {
+    width: 100px;
+    height: 50px;
+    font-size: 20pt;
+}
+.logo {
+    width: 64px;
+    height: 64px;
+    length: 64px;
+    align: center;
+}
+body {
+    padding: 50px;
+    margin-left: 50px;
+    margin-right:50px;
+    
+}
+form {
+    padding: 100px;
+    text-align: center;
+    
+}
+
+img {
+    margin-top: 100px;
+    height: 500px;
+    width: 1400px;
+    align: center;
+}
