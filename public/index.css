@@ -52,7 +52,7 @@
 .display-5 {
     text-align: left;
     color: black;
-    margin-top: 95px;
+    margin-top: 80px;
     margin-left: 800px;
     margin-right: 200px;
     margin-bottom: 100px;
@@ -62,8 +62,8 @@
 .card {
     border: none;
     display: flex;
-    flex-wrap: nowrap;
-    align-content: center;
+    flex-wrap: wrap;
+    align-content: space-evenly;
     align-items: center;
     justify-content: space-between;
     font-family: 'Questrial', sans-serif;
