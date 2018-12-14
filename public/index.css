@@ -110,6 +110,9 @@
     margin-right: 10px;
     font-size: 40px;
 }
+.contact-text{
+    text-align: center;
+}
 .github:hover {
     color: pink;
 }
